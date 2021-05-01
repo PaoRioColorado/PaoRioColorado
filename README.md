@@ -1,6 +1,6 @@
 ### Hi there, I'm Paola 👋 :woman: 💻
-<p> Contact </p>
 
+##### Contact
 <a href="https://www.linkedin.com/in/paoladit/"> 
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
