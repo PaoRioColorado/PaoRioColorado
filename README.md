@@ -1,4 +1,4 @@
-### Hi there, I'm Paola 👋 :woman: 💻
+### Hi, I'm Paola 👋 :woman: 💻
 
 ##### Contact
 <a href="https://www.linkedin.com/in/paoladit/"> 
